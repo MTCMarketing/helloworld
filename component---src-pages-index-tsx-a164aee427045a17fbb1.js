@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[691],{7200:function(e,t,a){a.r(t);var u=a(7294);t.default=function(){const{0:e,1:t}=(0,u.useState)(""),{0:a,1:s}=(0,u.useState)("");return u.createElement("div",null,"Make Them Call Me!!")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-a164aee427045a17fbb1.js.map
